@@ -1,0 +1,14 @@
+{
+"noun1": "Give me a noun",
+"noun2": "And another noun",
+"noun3" : "And one more noun",
+"adj1": "Give me an adjective",
+"adj2": "And another adjective",
+"adj3": "And one more adjective",
+"verb1": "Give me a verb",
+"verb2": "and another verb",
+"verb3": "and one more verb",
+"title1": "Give me a grand title of a thing",
+"plname1": "Give me a place name",
+"name1": "And finally, give me a person's name"
+}

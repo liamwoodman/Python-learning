@@ -1,0 +1,4 @@
+{"name1": "Name", "group1": "Name of a Group", "group2": "Name of another group", "adj1": "Give me an adjective",
+"adj2": "and another adjective" ,"adj3": "and another adjective", "noun1": "Give me a noun", "noun2": "and another noun",
+"noun3": "And one more noun", "opp1": "Give me a noun that has an opposite", "opp2":"Give me the opposite to that noun",
+"verb1": "Give me a past tense verb"}

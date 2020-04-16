@@ -1,0 +1,6 @@
+TO DO
+
+DEAL func
+- pick a card by randomly selecting from both lists
+- add it to a list
+- if in the list, draw another card
